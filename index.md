@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Yay
 ---
 
+First Trial to publish stuff. Haizz
